@@ -1,0 +1,5 @@
+log:
+  file:
+    root: /log/springboot-skeleton-application-pre
+properties:
+  name: springboot-skeleton-application-pre

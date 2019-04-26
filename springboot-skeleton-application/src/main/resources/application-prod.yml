@@ -1,0 +1,5 @@
+log:
+  file:
+    root: /log/springboot-skeleton-application-prod
+properties:
+  name: springboot-skeleton-application-prod

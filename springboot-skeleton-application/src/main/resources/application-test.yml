@@ -1,0 +1,5 @@
+log:
+  file:
+    root: /log/springboot-skeleton-application-test
+properties:
+  name: springboot-skeleton-application-test

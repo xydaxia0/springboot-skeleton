@@ -1,0 +1,5 @@
+log:
+  file:
+    root: /log/springboot-skeleton-application-daily
+properties:
+  name: springboot-skeleton-application-daily
